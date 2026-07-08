@@ -1,6 +1,6 @@
 # GitDev
 
-GitDev is a web application similar to my other repository, [GitHub-Dev-Card](https://github.com/Sai-Sri-Krishna/GitHub-Dev-Card) (or your specific repo link). 
+GitDev is a web application similar to my other repository, [GitHub-Dev-Card](https://github.com/Sai-Sri-Krishna/GitHub-Dev-Card)
 
 ## 🚀 Live Demo
 
