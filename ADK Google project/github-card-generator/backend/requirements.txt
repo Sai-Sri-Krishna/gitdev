@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-mcp
-google-genai
-python-dotenv
-httpx
-google-adk
-
-
