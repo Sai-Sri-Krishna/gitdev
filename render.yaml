@@ -3,6 +3,7 @@ services:
     name: github-card-generator
     env: python
     rootDir: backend
+    plan: free
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
